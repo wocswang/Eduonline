@@ -30,18 +30,18 @@ __项目功能__
 
 __部署项目（linux）__
 
-__克隆项目__
+__克隆项目__
 
 git clone https://github.com/wocswang/Eduonline
 
-__配置项目环境__
+__配置项目环境__
 
 安装配置python3.5，mysql5.7,redis，nginx
 
 进入到Mxonline目录中查找requirements.txt执行pip install -r requirements.txt,
 等待项目的依赖。
 
-__配置数据库__
+__配置数据库__
 
 确认你自己的数据库配置安装成功
 
@@ -68,7 +68,7 @@ DATABASES ={
 
 }
 
-__导入数据__
+__导入数据__
 
 首先需要在你的数据库中创建一个库，这里我命名eduonline，并赋予权限。
 
@@ -77,7 +77,7 @@ DATABASES ={
 使用makemigrations migrate命令创建数据表
 
 
-__配置redis__
+__配置redis__
 
 首先安装redis然后查看是否正常启动
 
@@ -96,7 +96,7 @@ Celery -A demo workr -l debug
 以此来测试celery的worker服务是否正常启动
 
 
-__配置nginx+uwsgi___
+__配置nginx+uwsgi___
 
 1安装uwsgi
 
