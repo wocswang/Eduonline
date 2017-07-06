@@ -1,4 +1,4 @@
-                                          #EduOnline在线教育
+                                          __EduOnline在线教育__
 打造在线学习平台
 
 兼容在python3.5下xadmin的使用
