@@ -1,4 +1,4 @@
-                    EduOnline在线教育
+                                          #EduOnline在线教育
 打造在线学习平台
 
 兼容在python3.5下xadmin的使用
@@ -24,7 +24,7 @@ __开发环境__
 
 
 __项目功能__
-![](~/Desktop/项目功能.jpg)
+![](https://github.com/wocswang/Eduonline/blob/master/project.jpg)
 
 
 
