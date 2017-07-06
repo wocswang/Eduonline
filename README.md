@@ -15,7 +15,7 @@
 __开发环境__
 
 
-在windows系统下配置python3.5环境
+在windows系统下配置python3.5环境 
 
 Django1.10.5
 
